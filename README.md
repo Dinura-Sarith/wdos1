@@ -1,2 +1,2 @@
 # wdos1
-Beginner level development
+Beginner level web development
